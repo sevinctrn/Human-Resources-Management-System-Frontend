@@ -1,1 +1,1 @@
-![HRMS-UML-DİAGRAM] (C:\HRMS\frontend\hrms-frontend\src\images\UML component-diagram.jpg)
+![UML component-diagram](https://user-images.githubusercontent.com/77884838/122757958-e4ca5e00-d2a0-11eb-8931-4f3f96d3d39e.jpg)
