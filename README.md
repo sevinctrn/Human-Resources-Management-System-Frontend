@@ -1,0 +1,1 @@
+![HRMS-UML-DİAGRAM] (C:\HRMS\frontend\hrms-frontend\src\images\UML component-diagram.jpg)
